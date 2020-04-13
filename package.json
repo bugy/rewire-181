@@ -1,0 +1,13 @@
+{
+  "name": "rewire_181",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.3.0",
+    "rewire": "^5.0.0"
+  }
+}
